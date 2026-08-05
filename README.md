@@ -16,3 +16,13 @@ https://www.kaggle.com/datasets/abuhumzakhan/store-data
 - Which product category generated the highest sales?
 - Which category contributed the highest profit?
 - What are the top 10 best-selling products?
+## Process
+- Collected the Indian Store Sales Dataset (2019–2023) from Kaggle.
+- Cleaned and organized the data by removing duplicates and correcting formats.
+- Created KPIs such as Total Sales, Total Profit
+- Created pivot tables and charts according to the table
+- Created appropriate slicers
+- Merge all the pivot charts , KPI cards into one dashboard and apply slicers to make it dynamic
+## Dashboard 
+<img width="636" height="640" alt="Dashboard" src="https://github.com/user-attachments/assets/3ff612f3-b096-4275-a061-6e0c3a4092d5" />
+
